@@ -1,0 +1,20 @@
+{
+    "autosave": 1,
+    "basename": true,
+    "colorcolumn": 80,
+    "colorscheme": "bubblegum",
+    "divchars": "=",
+    "divreverse": false,
+    "hlsearch": true,
+    "hltrailingws": true,
+    "lsp.formatOnSave": false,
+    "matchbracestyle": "highlight",
+    "rmtrailingws": true,
+    "savecursor": true,
+    "scrollbar": true,
+    "scrollbarchar": " ",
+    "tabhighlight": true,
+
+    "statusformatl": "$(filename) $(modified)($(line),$(col)) $(status.paste)",
+    "statusformatr": "$(opt:filetype) | $(opt:fileformat) | $(opt:encoding)",
+}
