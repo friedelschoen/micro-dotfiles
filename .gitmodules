@@ -1,0 +1,9 @@
+[submodule "plug/filemanager"]
+	path = plug/filemanager
+	url = https://github.com/NicolaiSoeborg/filemanager-plugin
+[submodule "plug/lsp"]
+	path = plug/lsp
+	url = https://github.com/AndCake/micro-plugin-lsp
+[submodule "plug/fzf"]
+	path = plug/fzf
+	url = https://github.com/samdmarshall/micro-fzf-plugin
